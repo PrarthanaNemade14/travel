@@ -12,6 +12,8 @@ npm run dev
 # or
 yarn dev
 # or
+yarn run dev -H 0.0.0.0 
+# or
 pnpm dev
 # or
 bun dev
